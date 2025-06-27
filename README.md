@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Lewis!
+## Hi there 👋
 
 Welcome to my GitHub profile!  
 I'm a software engineer by day (.NET + React + SQL), and in my off-time, I love building Minecraft plugins and exploring creative coding projects.
