@@ -3,18 +3,6 @@
 Welcome to my GitHub profile!  
 I'm a software engineer by day (.NET + React + SQL), and in my off-time, I love building Minecraft plugins and exploring creative coding projects.
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpull19&show_icons=true)
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on: Minecraft plugin development and open-source tools.
-- ⚡ Fun fact: I can turn (almost) any idea into a Minecraft plugin!
-
----
-
 ### 🛠️ Languages & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
